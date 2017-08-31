@@ -24,11 +24,11 @@ light(): turn light on.
 trancelate(): move coodinate location.  
 shape(): draw the object.  
 
-- serialEvent()
+- serialEvent()  
 **Under Construction**  
 Receive rotation data via serial communication and visualize it.  
 
-- keyPressed()
+- keyPressed()  
 **under Construction**  
 It receive commands from keyboard. it can be utilized for additional function.  
 
