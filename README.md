@@ -13,7 +13,7 @@ After installing Processing3.3.5, just run IDEA_CanSatAttitudeSimulation.pde
 
 ## About Code
 - setup()
-PShape: 3D model object in this program.
+PShape: 3D model object in this program./n
 s.scale(): expansion rate of object s.
 P3D: a render mode.
 s.trancelate(): move object location.
