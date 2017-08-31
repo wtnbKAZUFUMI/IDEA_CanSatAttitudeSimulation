@@ -12,6 +12,36 @@ We can use graphic libraries like OpenOL by simple code.
 After installing Processing3.3.5, just run IDEA_CanSatAttitudeSimulation.pde
 
 ## About Code
+- setup()
+PShape: 3D model object in this program.
+s.scale(): expansion rate of object s.
+P3D: a render mode.
+s.trancelate(): move object location.
+
+- draw()
+background(): the color of the background.
+light(): turn light on.
+trancelate(): move coodinate location.
+shape(): draw the object.
+
+- serialEvent()
+**Under Construction**
+Receive rotation data via serial communication and visualize it.
+
+- keyPressed()
+**under Construction**
+It receive commands from keyboard. it can be utilized for additional function.
+
+
+
+
+
+
+
+
+
+
+
 ```
 import processing.serial.*;
 
