@@ -6,7 +6,7 @@
 
 ## About Processing
 Processing is graphic library wrapper language based on Java/Python and etc...  
-We can use graphic libraries like OpenOL by simple code.  
+We can use graphic libraries like OpenGL by simple code.  
 
 ## Usage
 Just run IDEA_CanSatAttitudeSimulation.pde, after installing Processing3.3.5.  
