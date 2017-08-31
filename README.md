@@ -5,7 +5,7 @@
 - No extra libraries needed
 
 ## About Processing
-Processing is graphic library wrapper language based on Java/Python.  
+Processing is graphic library wrapper language based on Java/Python nad etc...  
 We can use graphic libraries like OpenOL by simple code.  
 
 ## Usage
