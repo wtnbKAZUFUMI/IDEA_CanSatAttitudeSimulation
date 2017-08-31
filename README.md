@@ -35,15 +35,7 @@ It receives commands from keyboard. it can be utilized for additional function.
 - **mouseDragged()**
 It receives mause movements.  
 
-
-
-
-
-
-
-
-
-```
+```IDEA_CanSatAttitudeSimulation.pde
 import processing.serial.*;
 
 PShape s;
