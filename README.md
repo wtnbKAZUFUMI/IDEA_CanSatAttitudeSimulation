@@ -12,13 +12,13 @@ We can use graphic libraries like OpenOL by simple code.
 Just run IDEA_CanSatAttitudeSimulation.pde, after installing Processing3.3.5.  
 
 ## About Code
-- setup()
+- setup()  
 PShape: 3D model object in this program.  
 s.scale(): expansion rate of object s.  
 P3D: a render mode.  
 s.trancelate(): move object location.  
 
-- draw()
+- draw()  
 background(): the color of the background.  
 light(): turn light on.  
 trancelate(): move coodinate location.  
