@@ -32,7 +32,7 @@ It receives rotation data via serial communication and visualize it.
 **under Construction**  
 It receives commands from keyboard. it can be utilized for additional function.  
 
-- **mouseDragged()**
+- **mouseDragged()**  
 It receives mause movements.  
 
 ```IDEA_CanSatAttitudeSimulation.pde
