@@ -1,8 +1,9 @@
 # IDEA_CanSatAttitudeSimulation
 
 ## Environment
-- Processing3.3.5(2.X versions are not supported.)
-- No extra libraries needed
+- Processing3.3.5(2.X versions are not supported.)  
+https://processing.org/download/  
+- No extra libraries needed  
 
 ## About Processing
 Processing is graphic library wrapper language based on Java/Python and etc...  
