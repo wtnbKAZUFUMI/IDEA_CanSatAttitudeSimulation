@@ -34,10 +34,10 @@ shape(): draw the object.
 
 - **serialEvent()**  
 **Under Construction**  
-It receives rotation data via serial communication and visualize it.  
+It receives rotation data via serial communication and visualization.  
 
 - **keyPressed()**  
-**under Construction**  
+**Under Construction**  
 It receives commands from keyboard. it can be utilized for additional function.  
 
 - **mouseDragged()**  
